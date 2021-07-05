@@ -47,7 +47,15 @@
   font-weight: 300;
   text-decoration: none;
   color: rgb(61, 53, 53);
+  margin-bottom: 40px;
 }
 .img-aria img{
   height: 500px;
+}
+.text-aria .btn{
+  color: white;
+  border-radius: 5px;
+  padding: 4px 14px;
+  background-image: linear-gradient(red,rgb(221, 20, 120));
+  text-decoration: none;
 }
