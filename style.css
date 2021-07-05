@@ -27,6 +27,27 @@
   padding: 0 6%;
   display: flex;
 }
+.text-aria{
+  margin-top: 100px;
+  margin-right: 80px;
+}
+.text-aria h2{
+  margin-right: 50px;
+  font-size: 40px;
+  color: rgb(56, 54, 54);
+}
+.text-aria h2 span{
+  color: red;
+  font-size: 50px;
+}
+.text-aria p{
+  font-size: 10px;
+  margin-top: 20px;
+  margin-right: 100px;
+  font-weight: 300;
+  text-decoration: none;
+  color: rgb(61, 53, 53);
+}
 .img-aria img{
   height: 500px;
 }
