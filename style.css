@@ -22,3 +22,11 @@
   text-decoration: none;
   color: red;
 }
+/****menu part end***/
+.text-img{
+  padding: 0 6%;
+  display: flex;
+}
+.img-aria img{
+  height: 500px;
+}
