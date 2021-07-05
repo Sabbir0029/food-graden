@@ -1,0 +1,24 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family:'Poppins', sans-serif;;
+}
+.first-div{
+  padding: 2% 6%;
+  display: flex;
+  width: 80%;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo h1 span{
+  color: red;
+  font-size: 35px;
+}
+.menu ul li{
+  display: inline-block;
+  padding: 8px 12px;
+}
+.menu ul li a{
+  text-decoration: none;
+  color: red;
+}
