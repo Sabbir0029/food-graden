@@ -105,3 +105,68 @@
   }
 /******about-section end******/
 
+/******My-recipies-section strat******/
+  .My-recipies-text{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+  }
+  .My-recipies-text h4{
+    color: rgb(56, 54, 54);
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  .My-recipies-text p{
+    color: rgb(105, 99, 99);
+    margin-bottom: 30px;
+  }
+  .box-aria{
+    display: flex;
+  }
+  .box-aria .box-1{
+    padding: 2% 2%;
+    margin: 4%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px black;
+  }
+  .box-aria .box-1 img{
+    height: 50%;
+    width: 100%;
+  }
+  .box-aria .box-1 h5{
+    margin: 2%;
+    font-size: 30px;
+    line-height: 70px;
+    color: rgb(66, 62, 62);
+  }
+  .box-aria .box-1 p{
+    font-size: 14px;
+    color: rgb(107, 100, 100);
+    margin-bottom: 10px;
+  }
+/******My-recipies-section end******/
+/******Extra-section strat******/
+.extra-aria{
+  width: 80%;
+  display: flex;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  box-shadow: 10px 10px 50px;
+  margin-top: 100px;
+  border-radius: 15px;
+}
+.extra-aria .num-1{
+  padding: 8px 100px;
+}
+.extra-aria .num-1 h6{
+  font-size: 50px;
+  color: rgb(41, 37, 37);
+}
+.extra-aria .num-1 p{
+  font-size: 14px;
+  color: rgb(95, 90, 90);
+}
+/******Extra-section end******/
+
