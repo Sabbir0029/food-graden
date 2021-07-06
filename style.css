@@ -54,8 +54,54 @@
 }
 .text-aria .btn{
   color: white;
-  border-radius: 5px;
-  padding: 4px 14px;
+  border-radius: 20px;
+  padding: 4px 20px;
   background-image: linear-gradient(red,rgb(221, 20, 120));
   text-decoration: none;
 }
+/******first-section end******/
+
+/******about-section strat******/
+.about-section{
+  height: 500px;
+  width: 100%;
+  background-image: url(img/7.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+  .about-text-img{
+    display: flex;
+    padding: 2% 6%;
+  }
+  .about-img img{
+    margin-top: 40px;
+    margin-left: 100px;
+    height: 430px;
+    width: 280px;
+  }
+  .about-text{
+    margin-top: 100px;
+    margin-left: 220px;
+    margin-right: 20px;
+  }
+  .about-text h3{
+    font-size: 30px;
+    color: red;
+    margin-bottom: 30px;
+  }
+  .about-text p{
+    font-size: 20px;
+    color: rgb(65, 59, 59);
+    margin-bottom: 40px;
+  }
+  .about-btn{
+    color: white;
+    border-radius: 20px;
+    padding: 4px 20px;
+    background-image: linear-gradient(red,rgb(221, 20, 120));
+    text-decoration: none;
+  }
+/******about-section end******/
+
